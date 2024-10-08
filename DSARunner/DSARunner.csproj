@@ -7,12 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\BTree\BTree.csproj" />
-    <ProjectReference Include="..\DSALinkedList\DSALinkedList.csproj" />
-    <ProjectReference Include="..\DSAQueue\DSAQueue.csproj" />
-    <ProjectReference Include="..\DSASort\DSASort.csproj" />
-    <ProjectReference Include="..\DSAStack\DSAStack.csproj" />
-    <ProjectReference Include="..\Graph\Graph.fsproj" />
-  </ItemGroup>
 </Project>
